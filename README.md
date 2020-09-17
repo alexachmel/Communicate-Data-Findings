@@ -18,7 +18,7 @@ Explanation of columns in PISA 2012 dataset - pisadict2012.csv
 __There are 4 parts in this project:__   
   
 Introduction   
-Part I - Data Wrangling  
+Part I - Data Wrangling and Data Exploration  
 Part II - Exploratory Data Analysis   
 Part III - Conclusions   
 
