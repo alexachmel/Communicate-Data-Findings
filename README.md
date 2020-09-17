@@ -1,6 +1,6 @@
 # Communicate Data Findings  
   
-  For this project I analyzed the results of The OECD Programme for International Student Assessment (PISA) as a part of completing Introduction to Data Analysis course.  
+  For this project I analyzed the results of The OECD Programme for International Student Assessment (PISA) as a part of completing Data Visualization course.  
   
 __Installations:__   
 In this project Python 3.x and the following Python libraries were installed:  
