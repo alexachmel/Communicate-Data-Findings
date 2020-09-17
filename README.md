@@ -4,7 +4,8 @@
   
 __Installations:__   
 In this project Python 3.x and the following Python libraries were installed:  
-  
+ 
+Os https://docs.python.org/3/library/os.html  
 Pandas https://pandas.pydata.org/   
 Numpy https://numpy.org/   
 Seaborn https://seaborn.pydata.org/   
