@@ -18,9 +18,9 @@ Explanation of columns in PISA 2012 dataset - pisadict2012.csv
 __There are 4 parts in this project:__   
   
 Introduction   
-Part I - Probability   
-Part II - A/B Test   
-Part III - Regression   
+Part I - Data Wrangling  
+Part II - Exploratory Data Analysis   
+Part III - Conclusions   
 
 
 __Project Details__  
@@ -31,11 +31,11 @@ In the second part, you will take your main findings from your exploration and c
  
 ___Step 1.1: Choose your Dataset___  
   
-Step 1.2: Explore Your Data  
+___Step 1.2: Explore Your Data___  
 It’s time to get to the interesting bits. Explore your data and document your findings in a report. The report should briefly introduce the dataset, then systematically walk through the points of exploration that you conducted. You should have headers and text that organize your thoughts and findings. Visualizations in this part of the project need not be completely polished: this is just your own exploration at this point. However, you should still make sure that you adhere to principles of using appropriate plot types and encodings so that accurate conclusions can be drawn, and that you have enough comments and labeling so that when you return to your work, you can quickly grasp your analysis steps.  
   
-Step 2.1: Document your Story  
+___Step 2.1: Document your Story___  
 At the end of your exploration, you probably have a bunch of things that you’ve discovered. Now it’s time to organize your findings and select a story that you will convey to others. In your readme document, you should summarize your main findings and reflect on the steps you took in your data exploration. You should also lay out the key insights that you want to convey in your explanatory report as well as any changes to visualizations, or note new visualizations that will be created to bridge between your insights.  
   
-Step 2.2: Create your Slide Deck  
+___Step 2.2: Create your Slide Deck___  
 Follow the plans you laid out in the previous step and create a slide deck with explanatory data visualizations to tell a story about the data you explored. You can start with code that you used in your exploration, but you should make sure that the code is revised so that your plots are polished. Make sure that you also pay attention to aspects of design integrity in your revisions.  
