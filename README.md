@@ -20,7 +20,7 @@ __There are 4 parts in this project:__
   
 Introduction   
 Part I - Data Wrangling and Data Exploration  
-Part II - Exploratory Data Analysis   
+Part II - Explanatory Data Analysis   
 Part III - Conclusions   
 
 
